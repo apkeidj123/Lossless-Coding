@@ -23,6 +23,9 @@ Your choice: (1 or 2, other to exit): 1 (for example)
 1) Original data
 2) DPCM
 Your choice: (1 or 2, other to exit): 1 (for example)
+
 ... Program is running and generating useful information
+
 ... Writing file...
+
 ... Done.
