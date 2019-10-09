@@ -54,16 +54,16 @@ int main()
 
     bool Exit = false;
 
-    printf("Name: Liang-Kun Liu\nStudnet ID:103502043\n*************\n");
+    printf("Name: XXXXX-XXX XXX\nStudnet ID:10XXXXXXX\n*************\n");
 
     printf("*Input filename: ");
     scanf("%s",inputFilename);
-    //gets(buf); /* 讀入檔名 */
-    //sprintf(in, """%s""", buf); // 為避免有空白,加入雙引號
+    //gets(buf); /* Read input filename */
+    //sprintf(in, """%s""", buf); // To prevent space ,add double quotation marks
     printf("*Output filename: ");
     scanf("%s",outputFilename);
     //gets(buf2);
-    //sprintf(out, """%s""", buf2); // 為避免有空白,加入雙引號
+    //sprintf(out, """%s""", buf2); //  To prevent space ,add double quotation marks
 
     printf("*Choose one compression method:\n");
     printf("1)Huffman coding\n");
