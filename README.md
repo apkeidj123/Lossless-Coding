@@ -25,7 +25,5 @@ Your choice: (1 or 2, other to exit): 1 (for example)
 Your choice: (1 or 2, other to exit): 1 (for example)
 
 ... Program is running and generating useful information
-
 ... Writing file...
-
 ... Done.
