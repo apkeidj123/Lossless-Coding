@@ -1,1 +1,1 @@
-*.c++ linguist-language=c
+*.yacc linguist-language=c++
