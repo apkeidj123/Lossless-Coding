@@ -4,7 +4,7 @@ Comparison of different compression mechanisms
 Codes implementing different data compression methods , including Huffman coding, Adaptive Huffman coding, Arithmetic coding, LZ77 and
 LZ78. Compare varying sources, including two gray level images, binary images, halftone images. The y are 256 x 256 images and each sample is of 1 byte long.
 
-* Input filename: lena.raw (for example)
+* Input filename: lena.raw (for example) (input file needs to be in the same root)
 * Output filename: lena .huf (for example)
 * Choose one compression method:
 1) Huffman coding
