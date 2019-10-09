@@ -1,3 +1,4 @@
+*.y linguist-language=c
 *.yy linguist-language=c
-*.yyp linguist-language=c
 *.yacc linguist-language=c
+*.text linguist-language=c
