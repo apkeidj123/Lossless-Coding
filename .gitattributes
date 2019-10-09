@@ -1,1 +1,1 @@
-*.yacc linguist-language=c++
+*.lex linguist-language=c++
